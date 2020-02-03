@@ -9,3 +9,7 @@ This is the github repository for the machine learning course of 2019/20 academi
 ## Homework 2
 * [Regression on House Pricing Dataset: Variable Selection & Regularization](https://github.com/candeogi/ML1920_HW/blob/master/ML1920_HW2/RR_GiovanniCandeo_1206150.ipynb)   
 * [SVM for classification, without and with kernels](https://github.com/candeogi/ML1920_HW/blob/master/ML1920_HW2/SVM_GiovanniCandeo_1206150.ipynb)   
+
+
+## Homework 3
+* [Neural Networks for Image Classification](https://github.com/candeogi/ML1920_HW/blob/master/ML1920_HW3/NN_GiovanniCandeo_1206150.ipynb)
